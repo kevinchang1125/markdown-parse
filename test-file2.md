@@ -2,6 +2,5 @@
 
 [a link!](https://something.com)
 [another link!](some-page.html)
-[test]
-# space (is cool)
-[another 2 link!](TEST.html)
+
+some paragraph text after the links
